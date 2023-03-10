@@ -7,7 +7,7 @@ public class Task_0 {
         double rateUSD = 78.5;
         double rateEUR = 85;
         double rateJPY = 0.74;
-
+        //петух
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Сколько денег у вас осталось до зарплаты?");
